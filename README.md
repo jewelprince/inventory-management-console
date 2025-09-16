@@ -35,7 +35,7 @@ inventory-system/
 └── README.md # This file
 
 
-## 🔮 Future Improvements
+## Future Improvements
 
 -  **Graphical User Interface (GUI):** Develop a GUI using GTK or another C library for easier use.
 -  **Database Integration:** Replace file storage with a SQLite database for improved reliability and querying.
